@@ -10,6 +10,8 @@ The scene (207 characters):
 
 > Dad still calls every Sunday to ask if I've eaten, then stays on the line in comfortable silence while Mum shouts the football score in the background — and somehow that's the best conversation of my week.
 
+Why it lands: the scene is all small domestic detail (Sunday call, comfortable silence, football score in the background) and the warmth is in what nobody says out loud.
+
 ## Run it
 
 ```sh
